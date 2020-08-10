@@ -4,7 +4,7 @@ It is built on the basis of the Grid Layout.
 
 ## Features
 * Adapts to different screen resolutions.
-* Uses a modern solution such as Grid Layout.
+* Uses a modern solutions such as Grid Layout.
 * Clear, animated mobile menu.
 * Very Light, only 104Kb (without pics)
 * Back to the top Button
